@@ -1,4 +1,4 @@
-package in.ineuron.controller;
+package in.sk.controller;
 
 import java.io.IOException;
 import java.io.PrintWriter;
